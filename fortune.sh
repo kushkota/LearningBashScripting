@@ -2,6 +2,10 @@
 
 # A fortune telling game
 
+# Challenge
+# Compose a script that uses control structures to show random replies
+# Examples include a quote viewer, a dice roll, or  a card draw
+
 echo -e "\t\tWelcome to the "
 
 redtext="\033[31m"

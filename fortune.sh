@@ -14,7 +14,7 @@ yellowtext="\033[33m"
 bold="\033[1m"
 normal="\033[0m"
 
-#  echo -e "\033[1m\033[31mbold_redtext\033[0m"
+# echo -e "\033[1m\033[31mbold_redtext\033[0m"
 
 echo -e $bold$greentext"\t\tMyStIcAL sPhErE"$normal
 echo

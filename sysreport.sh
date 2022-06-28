@@ -45,5 +45,5 @@ printf "\tGenerated on: \t%s\n" $logdate
 
 # %(fmt)T   output the date-time string resulting from using FMT as a format
 
-#  Gi = gibibyte:wq
+#  Gi = gibibyte
 
